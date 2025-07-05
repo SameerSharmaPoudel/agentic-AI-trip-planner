@@ -17,7 +17,7 @@ An agentic travel planning app powered by LLMs and tools. Plan your perfect trip
 ### Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/agenticai_trip_planner.git
+git clone https://github.com/SameerSharmaPoudel/agenticai_trip_planner.git
 cd agenticai_trip_planner
 ```
 
